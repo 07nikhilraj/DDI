@@ -1,0 +1,22 @@
+,Combination,Accuracy
+0,"('enzyme', 'carrier', 'target')",0.878391959798995
+1,"('enzyme', 'carrier', 'sideeffect')",0.8758793969849247
+2,"('enzyme', 'carrier', 'chem')",0.8824120603015075
+3,"('enzyme', 'target', 'sideeffect')",0.8768844221105527
+4,"('enzyme', 'target', 'chem')",0.8733668341708543
+5,"('enzyme', 'sideeffect', 'chem')",0.8693467336683417
+6,"('offside', 'carrier', 'target')",0.8834170854271357
+7,"('offside', 'carrier', 'sideeffect')",0.8748743718592965
+8,"('offside', 'carrier', 'chem')",0.864321608040201
+9,"('offside', 'target', 'sideeffect')",0.8768844221105527
+10,"('offside', 'target', 'chem')",0.8763819095477386
+11,"('offside', 'sideeffect', 'chem')",0.8824120603015075
+12,"('carrier', 'target', 'sideeffect')",0.8768844221105527
+13,"('carrier', 'target', 'chem')",0.8778894472361809
+14,"('carrier', 'sideeffect', 'chem')",0.8748743718592965
+15,"('target', 'sideeffect', 'chem')",0.8814070351758794
+16,"('transporter', 'enzyme', 'offside', 'carrier')",0.8668341708542714
+17,"('transporter', 'enzyme', 'offside', 'target')",0.8809045226130653
+18,"('transporter', 'enzyme', 'offside', 'sideeffect')",0.8819095477386935
+19,"('transporter', 'enzyme', 'offside', 'chem')",0.885929648241206
+20,"('transporter', 'enzyme', 'carrier', 'target')",0.871859296482412
